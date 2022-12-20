@@ -11,7 +11,7 @@ import net.zackhafezi.tutorialmod.TutorialMod;
 
 public class ModItems {
 
-    public static final Item ZACK_INGOT = registerItem("zack_ingot",
+    public static final Item mithril = registerItem("mithril",
         new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
 
